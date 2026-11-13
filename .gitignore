@@ -19,6 +19,10 @@ dist/
 build/
 .vite/
 
+# Local databases
+*.db
+*.sqlite3
+
 # Uploads and generated ads
 uploads/
 exports/
