@@ -5,6 +5,8 @@
 AdGuard AI helps businesses create ads with AI, then independently checks them for accuracy, quality and brand consistency before publishing.
 
 > Status: early development. Built step by step; see [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) for the workflow.
+>
+> Full project plan, features, corner cases and costs: [docs/PROJECT_OVERVIEW.md](docs/PROJECT_OVERVIEW.md).
 
 ## The problem
 
